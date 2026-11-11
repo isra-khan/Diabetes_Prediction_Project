@@ -4,7 +4,7 @@ An educational machine-learning project that uses a linear Support Vector
 Machine (SVM) to classify diabetes outcomes from health measurements. The
 repository includes both an interactive Streamlit web app and the original
 Jupyter notebook.
-/Users/israkhan/diabetes-prediction/image.png
+<img width="1440" height="673" alt="image" src="https://github.com/user-attachments/assets/8d17e7ac-ff3c-4246-894c-dac05e3d914f" />
 
 > **Medical disclaimer:** This project is for educational purposes only. Its
 > predictions are not a diagnosis, medical advice, or a substitute for care
